@@ -1,0 +1,28 @@
+{
+    "javascript.implicitProjectConfig.experimentalDecorators": true,
+    "files.exclude": {
+      "karma.conf.js": true,
+      "e2e": true,
+      "node_modules": true,
+      "*/assets": true,
+      "package.json": true,
+      "*/favicon.ico": true,
+      "*/test.ts": true,
+      "*/polyfills.ts": true,
+      "*/index.html": true,
+      "*/main.ts": true,
+      "*/styles.scss": true,
+      ".browserslistrc": true,
+      ".editorconfig": true,
+      ".gitignore": true,
+      "angular.json": true,
+      "package-lock.json": true,
+      "README.md": true,
+      "tsconfig.json": true,
+      "tsconfig.base.json": true,
+      "tsconfig.app.json": true,
+      "tsconfig.spec.json": true,
+      "tslint.json": true,
+      ".vscode": true
+    }
+}

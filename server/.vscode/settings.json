@@ -1,0 +1,23 @@
+{
+    "files.exclude": {
+        "dist": true,
+        "docs": true,
+        "documentation": true,
+        "logs": true,
+        "node_modules": true,
+        ".vscode": true,
+        ".env.sample": true,
+        "package-lock.json": true,
+        "tsconfig.json": true,
+        "tsconfig.build.json": true,
+        "nester-logo.jpg": true,
+        "STEP_BY_STEP.md": true,
+        "NEST_FACTS.md": true,
+        "nest-cli.json": true,
+        ".prettierrc": true,
+        ".gitignore": true,
+        "README.md": true,
+        "tslint.json": true,
+        "WORKSHOP.md": true
+    }
+}
